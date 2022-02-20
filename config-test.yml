@@ -1,0 +1,6 @@
+server:
+  port: 4455
+
+spring:
+  application:
+    name:  cloud-config-center-test #注册进Eureka服务器的微服务名

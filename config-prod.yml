@@ -1,0 +1,6 @@
+server:
+  port: 5566
+
+spring:
+  application:
+    name:  cloud-config-center-prod #注册进Eureka服务器的微服务名
